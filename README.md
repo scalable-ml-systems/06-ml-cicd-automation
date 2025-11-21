@@ -1,7 +1,7 @@
 # 06-ml-cicd-automation
 ML CI/CD Automation
 
-
+``` 
 projectX-xxxxx/
 │
 ├── src/                          # All Python source code (training, inference)
@@ -48,3 +48,4 @@ projectX-xxxxx/
 ├── LICENSE                       # MIT or Apache-2.0
 └── README.md                     # Clean, focused project overview
 
+```
